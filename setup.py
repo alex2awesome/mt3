@@ -48,7 +48,7 @@ setuptools.setup(
         'pretty_midi',
         'scikit-learn',
         'scipy',
-        'seqio @ git+https://github.com/google/seqio#egg=seqio',
+        'seqio @ git+https://github.com/alex2awesome/seqio.git',
         't5',
         't5x @ git+https://github.com/google-research/t5x#egg=t5x',
         'tensorflow',
