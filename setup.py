@@ -49,7 +49,7 @@ setuptools.setup(
         'scikit-learn',
         'scipy',
         # 'seqio @ git+https://github.com/alex2awesome/seqio.git#egg=seqio',
-        'git+https://github.com/alex2awesome/seqio.git#egg=seqio',
+        # 'git+https://github.com/alex2awesome/seqio.git#egg=seqio',
         't5',
         't5x @ git+https://github.com/google-research/t5x#egg=t5x',
         'tensorflow',
